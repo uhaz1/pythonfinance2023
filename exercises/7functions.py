@@ -84,12 +84,12 @@ nums = [11,33,14,2,58,65,34]
 
 
 # 7.4.1 Create a python module mod.
-# In mod.py, create a function psum(number1, number2) that takes two arguments and prints the sum of them.
-# In mod.py, create a function pmultiply(number1, number2) that takes two arguments and prints the product of them.
+# In mod.py, create a function psum(number1, number2) that takes two arguments and prints the sum of them. Assume the input arguments to be numbers.
+# In mod.py, create a function pmultiply(number1, number2) that takes two arguments and prints the product of them. Assume the input arguments to be numbers.
 
 
 # 7.4.2 Create python file main.py and import the module mod.
-# In main.py run the psum() and pmultiply() functions fromthe module mod.
+# In main.py run the psum() and pmultiply() functions from the module mod using any two numbers.
 
 
 # 7.4.3 In main.py, also import Python's built in module platform. Then list the functions and variables in the platform module using the dir() function.

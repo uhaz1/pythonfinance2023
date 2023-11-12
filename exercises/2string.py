@@ -17,7 +17,7 @@ txt = "Merry Christmas"
 
 
 
-# 2.1.3 Get the characters from index 1 to index 3 (ell).
+# 2.1.3 Get the characters from index 1 to index 3 (err).
 # TODO: Write your code below
 
 
