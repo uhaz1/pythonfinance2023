@@ -16,21 +16,15 @@
 
 
 
-# 7.1.3 Create a function named function2 that takes in one integer parameter number1. The function adds 5 to the input number1, adds 5 to it and prints the result
+
+# 7.1.3 Create a function named function2 that takes in one integer parameter number1. The function adds 5 to the input number1, and prints the result
 # TODO: Write your code below
 
 
 
 
 
-# 7.1.4 Create a function named function2 that takes in one integer parameter number1. The function adds 5 to the input number1, and prints the result
-# TODO: Write your code below
-
-
-
-
-
-# 7.1.5 Create a function named compare_numbers() with two arguments. If the first argument is greater than the second, print "first number is greater".
+# 7.1.4 Create a function named compare_numbers() with two arguments. If the first argument is greater than the second, print "first number is greater".
 # If the second number is greater than the first, print "first number is smaller". Is the numbers are equal, print "equal numbers"
 # TODO: Write your code below
 
