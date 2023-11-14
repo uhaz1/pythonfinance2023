@@ -23,7 +23,7 @@
 
 
 
-# 7.1.4 Create a function named function2 that takes in one integer parameter number1. The function adds 5 to the input number1, adds 5 to it and prints the result
+# 7.1.4 Create a function named function2 that takes in one integer parameter number1. The function adds 5 to the input number1, and prints the result
 # TODO: Write your code below
 
 
