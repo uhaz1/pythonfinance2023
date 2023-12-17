@@ -39,7 +39,7 @@ fruits2 = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 
 
 
-# 4.1.8  Write a program that add the average of numbers in a list scores.
+# 4.1.8  Write a program that calculates and prints the average of numbers in a list scores.
 # you are not allowed to use the sum() or len() functions.
 
 scores = [50, 55, 56, 70, 80, 60, 66]
