@@ -47,7 +47,7 @@ scores = [50, 55, 56, 70, 80, 60, 66]
 # TODO: Write your code below
 
 
-# 4.1.9 Write a program that calculates the highest number in a list scores
+# 4.1.9 Write a program that calculates the largest number in a list scores
 # you are not allowed to use the max or min functions.
 scores = [50, 55, 56, 70, 80, 60, 66]
 
